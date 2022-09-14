@@ -1,0 +1,4 @@
+﻿  Newton.cpp
+C:\Users\micha\source\repos\Newton\Newton.cpp(97,20): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\micha\source\repos\Newton\Newton.cpp(98,20): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+  Newton.vcxproj -> C:\Users\micha\source\repos\Newton\x64\Debug\Newton.exe
